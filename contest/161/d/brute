@@ -1,0 +1,5 @@
+for((i = 1; ; ++i)); do
+    echo $i
+    ./smart_tree_random $i > int
+    diff -w <(./d < int) <(./solution < int) || break
+done

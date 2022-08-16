@@ -1,0 +1,3 @@
+/home/crs/Misc/cf/contest/1707/a/cmake-build-debug/CMakeFiles/a.dir
+/home/crs/Misc/cf/contest/1707/a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/crs/Misc/cf/contest/1707/a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
